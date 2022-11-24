@@ -1,16 +1,19 @@
-### Hi there 👋
+## hi
 
-<!--
-**otaviomad/otaviomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my incredible github profile
 
-Here are some ideas to get you started:
+do not be fooled by my lack of activity, my organization does not allow me to show it on my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### me
+
+i'm 23, i live in the netherlands, i like videogames, music and film. ask me about my favourite weird japanese art pop albums. you'll notice a distinct lack of styling on this readme. that is because i am ~~lazy~~ a minimalist.
+
+### my skills
+
+i am (very) good with typescript. i am very good with react. i know a bunch of backend stuff and have worked with php.
+
+### my projects
+
+- a game
+
+a game is being worked on. no repository of mine is public. i am sorry.
