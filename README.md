@@ -10,7 +10,7 @@ i'm 25, i live in the netherlands, i like videogames, music and film. ask me abo
 
 ### my skills
 
-i am (very) good with typescript. i am very good with react. i know a bunch of backend stuff and have worked with php.
+i am (very) good with typescript. i am very good with react. i really enjoy working with svelte. i know a bunch of backend stuff and have worked with php.
 
 ### my projects
 
