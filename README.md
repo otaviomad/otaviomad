@@ -6,7 +6,7 @@ do not be fooled by my lack of activity, my organization does not allow me to sh
 
 ### me
 
-i'm 24, i live in the netherlands, i like videogames, music and film. ask me about my favourite weird japanese art pop albums. you'll notice a distinct lack of styling on this readme. that is because i am ~~lazy~~ a minimalist.
+i'm 25, i live in the netherlands, i like videogames, music and film. ask me about my favourite weird japanese art pop albums. you'll notice a distinct lack of styling on this readme. that is because i am ~~lazy~~ a minimalist.
 
 ### my skills
 
